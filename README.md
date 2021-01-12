@@ -1,6 +1,6 @@
 # my_card_flutter
 
-A new Flutter application.
+A new Flutter application (personal card). #FlutterBrew
 
 ## Getting Started
 
